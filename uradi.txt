@@ -1,0 +1,7 @@
+naci prosirenje sa segmentacijom
+
+raditi precision and recall
+
+izdeliti kod: augmentacija, segmentacija i klasifikacija.
+
+unet, 
